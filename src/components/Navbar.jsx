@@ -37,6 +37,7 @@ const Search = styled.div`
 
 const Input = styled.input`
   border: none;
+  font-weight: 900;
   flex: 2;
   background-color: transparent;
   outline: none;

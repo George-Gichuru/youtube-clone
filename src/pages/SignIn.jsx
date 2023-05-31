@@ -34,6 +34,7 @@ const Input = styled.input`
   border-radius: 3px;
   padding: 10px;
   background-color: transparent;
+  font-weight: 700;
   width: 100%;
   color: ${({ theme }) => theme.text};
 `;
